@@ -1,4 +1,4 @@
-## Das GitHub-Repository der brandgroup 👋
+## Willkommen GitHub-Repository der brandgroup 👋
 
 <!--
 
